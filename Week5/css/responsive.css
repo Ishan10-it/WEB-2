@@ -1,0 +1,35 @@
+img{
+    max-width: 100%;
+    height: auto;
+}
+p{
+    
+    background-color: limegreen;
+    font-size: 20px;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    b
+   
+}
+/* for laptop */
+@media screen and (min width:769px) and (max width: 1024px){
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+}
+/* for l *tablets*/
+@media screen and (min width:481px) and (max width: 768px){
+    img{
+        max-width: 100%;
+        height: auto;
+    }  
+}
+/* for mobiles */
+@media screen and (min width:320px) and (max width: 480px){
+    img{
+        max-width: 100%;
+        height: auto;
+    } 
+}

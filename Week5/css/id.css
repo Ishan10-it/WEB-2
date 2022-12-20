@@ -1,0 +1,38 @@
+/* *{
+
+} */
+
+body{
+    /* background: linear-gradient(to left,blue,yellow); */
+    background-image: url("nice.jpg");
+    background-size: cover;
+    background-position: center;
+}
+ #heading{
+    background-color: burlywood;
+    font-size: 40px;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.paragarph{
+    background-color:cyan;
+    font-size: 20px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p2{
+
+    background-color:cadetblue;
+    font-size: 20px;
+    color:chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#p3{
+    background-color:crimson;
+    font-size: 20px;
+    color:cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
